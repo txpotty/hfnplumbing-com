@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hfnplumbing.com/sitemap.xml
